@@ -10,3 +10,4 @@
 <h4>- Raiz Quadrada</h4>
 <h4>- Potenciação</h4>
 <h4>- Resto de Divisão</h4>
+<h3>Contém imagens sendo (Calculadora 1,2,3 e 4), vídeo teste do aplicativo e o APK para teste.</h3>
