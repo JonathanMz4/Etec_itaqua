@@ -4,7 +4,7 @@
 <h3>Passado</h3>
 <h4>Foi ano bissexto</h4>
 <h4>Não foi ano bissexto</h4>
-<h3>Presente/h3>
+<h3>Presente</h3>
 <h4>É ano bissexto</h4>
 <h4>Não é ano bissexto</h4>
 <h3>Futuro</h3>
