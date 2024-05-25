@@ -1,2 +1,2 @@
-Olá, tudo bem?
-<h1>Olá mundo!</h1>
+<h1>Olá tudo bem?</h1>
+<h2>Eu sou Jonathan Menezes e vou estar apresentandos os meus projetos e habilidades adquiridas no curso técnico de Desenvolvimento de Sistemas!</h2>
